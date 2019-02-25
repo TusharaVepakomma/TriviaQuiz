@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Main Activity</string>
+    <string name="welcome">Welcome to Trivia App</string>
+    <string name="b1">Exit</string>
+    <string name="start">Start Trivia</string>
+    <string name="quit">Quit</string>
+    <string name="next">Next</string>
+    <string name="stats">Trivia Stats</string>
+    <string name="correct">Correct Answers</string>
+    <string name="tryagain">Try Again</string>
+</resources>
